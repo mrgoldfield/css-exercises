@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+p {
+    font-family: Verdana, DejaVu Sans, sans-serif;
+    line-height: 1.6;
+    background-color: rgb(190, 140, 140);
+}
+
+.cool {
+    font-weight: bold;
+    font-size: 24px;
+}
+
+#unique1 {
+    font-size: 36px;
+    color: blue;
+}
+#unique2 {
+    font-size: 24px;
+    background-color: rgb(70, 229, 70);
+}
